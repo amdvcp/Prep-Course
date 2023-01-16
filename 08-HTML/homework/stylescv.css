@@ -1,0 +1,51 @@
+html {
+    background-image: url(cvbackground.jpg);
+    text-align: center;
+}
+/* * {
+    -webkit-box-sizing: content-box;
+       -moz-box-sizing: border-box;
+            box-sizing: content-box;
+}*/
+div {
+    flex: auto;
+    margin: auto;
+    overflow:visible;
+    text-align: center;
+    padding: auto;
+    }
+h1 {
+    color: rgb(201, 195, 216);
+    -webkit-text-stroke-color: rgb(130, 68, 180);
+    -webkit-text-stroke-width: 1px;
+    text-align: center;
+}
+h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    -webkit-text-stroke-color: rgb(124, 73, 165);
+    -webkit-text-stroke-width: 1px;
+    color: rgb(183, 156, 194);
+}
+img {
+    max-width: 400px; 
+}
+.desccell {
+    min-height: fit-content;
+    width: 500px;
+    background-color: transparent;
+    border: 1px solid rgb(243, 127, 123);
+}
+span {
+    color: rgb(238, 157, 204);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p {
+    color: rgb(185, 221, 241);
+    margin: auto;
+    font-size: 18px;
+    white-space: pre-line;
+    text-align: center;
+}
+img {
+    border: 2px solid rgb(56, 24, 240);
+}

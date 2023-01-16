@@ -1,0 +1,32 @@
+html {
+    background-image: url(img10.jpg);
+    text-align: center;
+}
+/* * {
+    -webkit-box-sizing: content-box;
+       -moz-box-sizing: border-box;
+            box-sizing: content-box;
+}*/
+div {
+    margin: auto;
+    overflow:visible ;
+    }
+h1 {
+    color: rgb(49, 17, 192);
+    text-align: center;
+}
+img {
+    max-width: 400px; 
+}
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background: rgb(224, 139, 12);
+    padding: 50px;
+    border: 2px solid rgb(230, 17, 10);
+}
+
+#spanid {
+    font-size: 18px;
+    margin: 50px;
+}
